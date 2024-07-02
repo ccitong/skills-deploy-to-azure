@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ccitong
   ###############################################
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+  DOCKER_IMAGE_NAME: ccitong-azure-ttt
+  AZURE_WEBAPP_NAME: ccitong-ttt-app
   ###############################################
 
 jobs:
